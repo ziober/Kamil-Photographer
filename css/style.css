@@ -1,0 +1,17 @@
+@import 'https://www.w3.org/Style/Examples/007/fonts.pl.html';
+
+body{
+    background-color: #eee;
+    text-align: center;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    color: gray;
+}
+.author{
+    font-family: 'Snell Roundhand serif';
+    font-style: oblique;
+    font-size: 35px;
+}
+.foto1{
+ margin-top: 30%;
+}
